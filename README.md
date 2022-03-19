@@ -1,4 +1,4 @@
-#*Twitter*
+# Twitter
 
 **Twitter** is a basic twitter-like app to read your tweets.
 
